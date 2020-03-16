@@ -1,0 +1,10 @@
+{
+  "name": "Sentry WSGI with Gunicorn/Gevent",
+  "description": "Minimal test case for running the Python SDK for Sentry with Gunicorn and Gevent workers",
+  "keywords": [
+    "async"
+  ],
+  "website": "https://github.com/singingwolfboy/sentry-wsgi-gunicorn-gevent",
+  "repository": "https://github.com/singingwolfboy/sentry-wsgi-gunicorn-gevent",
+  "addons": [{ "plan": "sentry:f1" }]
+}
